@@ -1,0 +1,15 @@
+{
+  "cement": {"name": "Cement (OPC)", "unit": "bags", "rate_pkr": 1250, "city": "Karachi"},
+  "steel": {"name": "Steel (Grade-60)", "unit": "kg", "rate_pkr": 260, "city": "Karachi"},
+  "bricks": {"name": "Awal Bricks", "unit": "pieces", "rate_pkr": 16, "city": "Karachi"},
+  "sand": {"name": "Sand (Ravi/Chenab)", "unit": "cft", "rate_pkr": 45, "city": "Karachi"},
+  "crush": {"name": "Crush (Margalla/Sargodha)", "unit": "cft", "rate_pkr": 110, "city": "Karachi"},
+  "tiles": {"name": "Floor & Wall Tiles", "unit": "sq_ft", "rate_pkr": 180, "city": "Karachi"},
+  "paint": {"name": "Paint & Primer", "unit": "liters", "rate_pkr": 800, "city": "Karachi"},
+  "doors": {"name": "Wooden Doors & Frames", "unit": "unit", "rate_pkr": 25000, "city": "Karachi"},
+  "windows": {"name": "Aluminum Windows", "unit": "unit", "rate_pkr": 18000, "city": "Karachi"},
+  "electrical": {"name": "Electrical Wires & Switches", "unit": "points", "rate_pkr": 2500, "city": "Karachi"},
+  "plumbing": {"name": "Plumbing Pipes & Fixtures", "unit": "points", "rate_pkr": 15000, "city": "Karachi"},
+  "labor_grey": {"name": "Contractor Labor (Grey)", "unit": "sq_ft", "rate_pkr": 450, "city": "Karachi"},
+  "labor_finishing": {"name": "Contractor Labor (Finishing)", "unit": "sq_ft", "rate_pkr": 350, "city": "Karachi"}
+}
